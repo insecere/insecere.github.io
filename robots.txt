@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://insecere.github.io/sitemap.html.gz
+Sitemap: https://insecere.github.io/app/sitemap.html.gz
+Sitemap: https://insecere.github.io/assets/sitemap.html.gz
+Sitemap: https://insecere.github.io/css/sitemap.html.gz
+Sitemap: https://insecere.github.io/includes/sitemap.html.gz
+Sitemap: https://insecere.github.io/item/sitemap.html.gz
+Sitemap: https://insecere.github.io/src/sitemap.html.gz
